@@ -94,6 +94,6 @@ string facename = "Tahoma"
 string text = "pbl1"
 end type
 
-event clicked;//open( w_1 )
+event clicked;open( w_1 )
 end event
 
