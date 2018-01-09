@@ -1,0 +1,6 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "test4pbl.pbt";
+@end;
+DefaultTarget "test4pbl.pbt";
+DefaultRemoteTarget "test4pbl.pbt";

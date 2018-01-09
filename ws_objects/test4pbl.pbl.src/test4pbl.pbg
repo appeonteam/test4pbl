@@ -1,0 +1,11 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "test4pbl.pbl" "";
+@end;
+@begin Objects 
+ "test4pbl.sra" "test4pbl.pbl";
+ "soapconnection.sru" "test4pbl.pbl";
+ "soapexception.sru" "test4pbl.pbl";
+ "soappbcookie.sru" "test4pbl.pbl";
+ "w_test.srw" "test4pbl.pbl";
+@end;
